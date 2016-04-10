@@ -5,8 +5,8 @@
 color 0a
 echo  Welcome.. this is very basic tool to flash android tablet with new boot animation. Please follow the steps:
 echo      (*) Install adb driver of your device
-echo      (*) move bootanimatio.zip file to the the current repo
-echo      (*) Enable "usb debugging" from developer options of your device.
+echo      (*) move bootanimation.zip file to the the current directory
+echo      (*) Enable Settings>Developer options>USB Debugging.
 echo      (*) Connect the cable of your device & it should be starting.
 echo -----------------------------------------------------------------------------
 pause
